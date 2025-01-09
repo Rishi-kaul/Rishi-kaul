@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rishi-kaul
 - 👀 I’m interested in Devsecops
-- 🌱 I’m currently learning  cybersecurity
-- 💞️ I’m looking to collaborate on  projects related to Cyber
 - 📫 How to reach me  rishikaul74@gmail.com or rishikaul2022@vitbhopal.ac.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: CTF >>> DSA

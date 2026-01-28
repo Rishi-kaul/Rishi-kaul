@@ -83,12 +83,12 @@ I enjoy:
 Here are some of my **pinned security and tooling repos**:
 
 ### 🔥 Core Security Labs
-- **Malware Analysis Lab (Self-Hosted)** – how to build a malware analysis lab securely on VirtualBox and learn C2 setups. :contentReference[oaicite:6]{index=6}  
-- **SHA1 Password Exploitation** – Python script for brute-force password exploits. :contentReference[oaicite:7]{index=7}  
-- **Basic Keylogger** – simple keylogger for learning process flows. :contentReference[oaicite:8]{index=8}  
-- **Emo-Dek Notebook** – data/ML notebook project. :contentReference[oaicite:9]{index=9}  
-- **Start-IT Malware Generator** – prank malware batch script (fun learning). :contentReference[oaicite:10]{index=10}  
-- **File Integrity Monitor (FIM)** – tool to detect potential breaches via file changes. :contentReference[oaicite:11]{index=11}  
+- **Malware Analysis Lab (Self-Hosted)** – how to build a malware analysis lab securely on VirtualBox and learn C2 setups. :contentReference[oaicite:6] {index=6}  
+- **SHA1 Password Exploitation** – Python script for brute-force password exploits. :contentReference[oaicite:7] {index=7}  
+- **Basic Keylogger** – simple keylogger for learning process flows. :contentReference[oaicite:8] {index=8}  
+- **Emo-Dek Notebook** – data/ML notebook project. :contentReference[oaicite:9] {index=9}  
+- **Start-IT Malware Generator** – prank malware batch script (fun learning). :contentReference[oaicite:10] {index=10}  
+- **File Integrity Monitor (FIM)** – tool to detect potential breaches via file changes. :contentReference[oaicite:11] {index=11}  
 
 *(Explore more in my repositories!)*
 

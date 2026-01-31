@@ -6,7 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-rishikaul74%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikaul74@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Delhi%20NCR%2C%20India-0077B5?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kaul-)
+[![CTF Profile](https://img.shields.io/badge/CTFLearn-Profile-FF6B6B?style=for-the-badge)](https://ctflearn.com/user/Bugit)
 
 ---
 
@@ -24,6 +25,54 @@ Passionate cybersecurity professional with hands-on experience in **defensive se
 - ☁️ **Cloud Security** – Secure infrastructure deployment and container security
 - 🔄 **DevSecOps Integration** – Security automation, CI/CD pipeline hardening
 - 🌐 **Network Security** – Traffic analysis, packet inspection, and protocol security
+
+---
+
+## 🏅 Community & Recognition
+
+<div align="center">
+
+**26+ Followers** • **40+ Public Repositories** • **Active CTF Competitor**
+
+[![GitHub Achievements](https://img.shields.io/badge/Achievements-Starstruck%20%7C%20YOLO%20%7C%20Quickdraw%20%7C%20Pull%20Shark-blueviolet?style=for-the-badge)](#)
+
+</div>
+
+---
+
+## 💡 Why Hire Me?
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Practical Experience
+**Hands-on security projects**<br>
+Built malware analysis labs<br>
+Developed security tools<br>
+Real-world threat detection
+
+</td>
+<td width="33%" align="center">
+
+### 📚 Proven Learning Ability
+**Top 20% NPTEL (IIT Kharagpur)**<br>
+Multiple industry certifications<br>
+Self-taught security skills<br>
+Continuous skill development
+
+</td>
+<td width="33%" align="center">
+
+### 🏆 Competition Success
+**Top 100 in Anveshanam CTF**<br>
+Active CTFLearn participant<br>
+Problem-solving mindset<br>
+Thrives under pressure
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -137,74 +186,125 @@ Infrastructure as Code security
 
 ## 🚀 Featured Security Projects
 
-### 🔬 Malware Analysis & Research
+> **All projects available on GitHub with comprehensive documentation**
 
-<details>
-<summary><b>🧪 Self-Hosted Malware Analysis Lab</b></summary>
+### 🔬 Malware Analysis & Forensics
 
-**Description:** Isolated malware analysis environment built on VirtualBox for safe reverse engineering and behavioral analysis.
+<details open>
+<summary><b>🧪 Self-Hosted Malware Analysis Lab</b> ⭐ 16 stars</summary>
+
+**Repository:** [Malware-Analysis-Lab--Self-Hosted-](https://github.com/Rishi-kaul/Malware-Analysis-Lab--Self-Hosted-)
+
+**Description:** Comprehensive guide to building an isolated malware analysis environment using VirtualBox for safe reverse engineering and behavioral analysis.
 
 **Key Features:**
-- Command & Control (C2) server simulation
-- Network traffic isolation and monitoring
-- Automated snapshot and rollback mechanisms
-- Integrated with packet analysis tools
+- ✅ Complete virtual network isolation setup
+- ✅ Windows Defender bypass techniques for analysis
+- ✅ REMnux integration as C2 server
+- ✅ Safe malware execution environment
+- ✅ Step-by-step documentation for beginners
 
-**Skills Demonstrated:** Malware analysis, virtualization, network isolation, threat intelligence
+**Skills Demonstrated:** Malware analysis, virtualization security, network isolation, threat intelligence, reverse engineering fundamentals
+
+**Impact:** Helps security researchers safely analyze malicious code without risking production systems
 
 </details>
 
 <details>
 <summary><b>🔐 File Integrity Monitor (FIM)</b></summary>
 
-**Description:** Real-time file integrity monitoring system to detect unauthorized file modifications and potential breaches.
+**Description:** Real-time file integrity monitoring system to detect unauthorized file modifications and potential security breaches.
 
 **Key Features:**
 - Hash-based change detection (SHA-256)
 - Real-time alerting mechanism
 - Baseline integrity snapshots
-- Integration-ready for SIEM platforms
+- SIEM integration capabilities
 
-**Skills Demonstrated:** Intrusion detection, cryptographic hashing, security monitoring, Python automation
+**Skills Demonstrated:** Intrusion detection, cryptographic hashing, Python automation, security monitoring
+
+**Use Case:** Critical for detecting ransomware, unauthorized access, and system tampering
 
 </details>
 
-### 🔧 Security Tools & Automation
+### 🔧 Security Tools & Exploitation
 
 <details>
-<summary><b>🔑 SHA1 Password Exploitation Tool</b></summary>
+<summary><b>🔑 SHA1 Password Exploitation Tool</b> ⭐ 14 stars</summary>
 
-**Description:** Educational demonstration of brute-force password cracking against SHA1 hashes.
+**Repository:** [SHA1-Password-Exploitation](https://github.com/Rishi-kaul/SHA1-Password-Exploitation)
 
-**Technical Stack:** Python, hashlib, cryptographic analysis
+**Description:** Educational password cracking tool demonstrating brute-force dictionary attacks against SHA1 hashes.
 
-**Purpose:** Understanding password security weaknesses and hash collision vulnerabilities
+**Technical Implementation:**
+- Dictionary-based attack methodology
+- SHA1 hash comparison engine
+- Performance-optimized Python code
+- Educational documentation on cryptographic weaknesses
+
+**Skills Demonstrated:** Cryptanalysis, password security, Python development, hash collision understanding
+
+**Learning Value:** Demonstrates why weak hashing algorithms pose security risks
 
 </details>
 
 <details>
-<summary><b>⌨️ Process Monitoring Keylogger</b></summary>
+<summary><b>⌨️ Basic Keylogger (Educational)</b> ⭐ 15 stars</summary>
 
-**Description:** Educational keylogger for understanding system-level process monitoring and input capture mechanisms.
+**Repository:** [Basic-Keylogger](https://github.com/Rishi-kaul/Basic-Keylogger)
 
-**Learning Objectives:** System internals, process hooking, ethical security research
+**Description:** Educational keylogger for understanding system-level input capture and process monitoring mechanisms.
 
-**Note:** Built strictly for educational purposes in controlled environments
+**Technical Stack:** Python, keyboard hooks, system APIs
+
+**Learning Objectives:**
+- System internals and process monitoring
+- Input capture mechanisms
+- Ethical security research practices
+- Understanding attacker TTPs
+
+**Note:** Built strictly for educational purposes in controlled lab environments
 
 </details>
 
-### 📊 Data Science & Analysis
+### 📊 Additional Projects
 
 <details>
-<summary><b>📓 Emo-Dek Notebook Project</b></summary>
+<summary><b>🎭 Start-IT Malware Generator</b></summary>
 
-**Description:** Data analysis and machine learning notebook exploring sentiment analysis and emotional detection.
+**Description:** Batch script-based educational tool for understanding malware generation techniques.
 
-**Skills Demonstrated:** Python, data visualization, ML fundamentals, Jupyter notebooks
+**Purpose:** Learning malware behavior patterns and detection signatures
+
+**Skills:** Batch scripting, malware analysis, detection engineering
 
 </details>
 
-> 💡 **[View All Repositories →](https://github.com/Rishi-kaul?tab=repositories)**
+<details>
+<summary><b>📓 Emo-Dek Notebook</b></summary>
+
+**Description:** Data science project exploring sentiment analysis and emotional detection using machine learning.
+
+**Skills Demonstrated:** Python, Jupyter notebooks, data analysis, ML fundamentals
+
+</details>
+
+---
+
+### 📂 Repository Highlights
+
+<div align="center">
+
+| Repository | Stars | Language | Focus Area |
+|------------|-------|----------|------------|
+| [Malware Analysis Lab](https://github.com/Rishi-kaul/Malware-Analysis-Lab--Self-Hosted-) | ⭐ 16 | Documentation | Malware Analysis |
+| [SHA1 Exploitation](https://github.com/Rishi-kaul/SHA1-Password-Exploitation) | ⭐ 14 | Python | Cryptanalysis |
+| [Basic Keylogger](https://github.com/Rishi-kaul/Basic-Keylogger) | ⭐ 15 | Python | Process Monitoring |
+| [File Integrity Monitor](https://github.com/Rishi-kaul/) | Active | Python | Detection Engineering |
+
+</div>
+
+> 💡 **[Explore All 40+ Repositories →](https://github.com/Rishi-kaul?tab=repositories)**
 
 ---
 
@@ -242,7 +342,8 @@ Infrastructure as Code security
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-rishikaul74%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikaul74@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C7B7?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kaul-)
+[![CTFLearn](https://img.shields.io/badge/🎯_CTFLearn-Bugit-FF6B6B?style=for-the-badge)](https://ctflearn.com/user/Bugit)
 
 **📍 Based in Delhi NCR, India** | **🌍 Open to Remote & On-site Opportunities**
 

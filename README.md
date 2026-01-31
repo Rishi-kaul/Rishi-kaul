@@ -58,6 +58,8 @@ I enjoy:
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge)
 ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 
 ---
 

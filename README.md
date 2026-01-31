@@ -188,10 +188,10 @@ Infrastructure as Code security
 
 > **All projects available on GitHub with comprehensive documentation**
 
-### 🔬 Malware Analysis & Forensics
+### 🔬 Malware Analysis & Threat Research
 
 <details open>
-<summary><b>🧪 Self-Hosted Malware Analysis Lab</b> ⭐ 16 stars</summary>
+<summary><b>🧪 Self-Hosted Malware Analysis Lab</b> ⭐ 17 stars</summary>
 
 **Repository:** [Malware-Analysis-Lab--Self-Hosted-](https://github.com/Rishi-kaul/Malware-Analysis-Lab--Self-Hosted-)
 
@@ -202,32 +202,119 @@ Infrastructure as Code security
 - ✅ Windows Defender bypass techniques for analysis
 - ✅ REMnux integration as C2 server
 - ✅ Safe malware execution environment
-- ✅ Step-by-step documentation for beginners
+- ✅ Step-by-step documentation for security researchers
 
-**Skills Demonstrated:** Malware analysis, virtualization security, network isolation, threat intelligence, reverse engineering fundamentals
+**Skills Demonstrated:** Malware analysis, virtualization security, network isolation, threat intelligence, reverse engineering
 
-**Impact:** Helps security researchers safely analyze malicious code without risking production systems
+**Impact:** Enables security researchers to safely analyze malicious code without risking production systems
+
+</details>
+
+### 🛡️ Detection & Defense Systems
+
+<details open>
+<summary><b>🔐 ShieldNet - File Integrity Monitor</b> ⭐ 15 stars | MIT License</summary>
+
+**Repository:** [ShieldNet](https://github.com/Rishi-kaul/ShieldNet)
+
+**Description:** Production-ready security monitoring tool that detects unauthorized file modifications and potential security breaches in real-time.
+
+**Key Features:**
+- ✅ SHA-256 hash-based change detection
+- ✅ Real-time alerting and notification system
+- ✅ Baseline integrity snapshots
+- ✅ SIEM integration capabilities
+- ✅ Automated threat response
+
+**Skills Demonstrated:** Intrusion detection, cryptographic hashing, Python automation, security monitoring, detection engineering
+
+**Use Case:** Critical for detecting ransomware attacks, unauthorized system access, and configuration tampering
+
+**Business Value:** Reduces breach detection time from days to minutes
 
 </details>
 
 <details>
-<summary><b>🔐 File Integrity Monitor (FIM)</b></summary>
+<summary><b>🍯 Phantom-Trap - Deceptive Honeypot System</b> ⭐ 9 stars</summary>
 
-**Description:** Real-time file integrity monitoring system to detect unauthorized file modifications and potential security breaches.
+**Repository:** [Phantom-Trap-Deceptive-Honeypot](https://github.com/Rishi-kaul/Phantom-Trap-Deceptive-Honeypot-for-Cyber-Intrusion-Detection)
 
-**Key Features:**
-- Hash-based change detection (SHA-256)
-- Real-time alerting mechanism
-- Baseline integrity snapshots
-- SIEM integration capabilities
+**Description:** Advanced honeypot system for cyber intrusion detection using deception technology to identify and analyze attacker behavior.
 
-**Skills Demonstrated:** Intrusion detection, cryptographic hashing, Python automation, security monitoring
+**Technical Implementation:**
+- Simulated vulnerable services to attract attackers
+- Real-time intrusion logging and analysis
+- Attacker behavior profiling
+- Integration with threat intelligence platforms
 
-**Use Case:** Critical for detecting ransomware, unauthorized access, and system tampering
+**Skills Demonstrated:** Blue team operations, deception technology, threat hunting, network security, incident detection
+
+**Security Impact:** Provides early warning of attacks and valuable threat intelligence
 
 </details>
 
-### 🔧 Security Tools & Exploitation
+<details>
+<summary><b>📊 Honeypot Data Analysis Platform</b> ⭐ 9 stars | MIT License</summary>
+
+**Repository:** [honeypot-data-analysis](https://github.com/Rishi-kaul/honeypot-data-anaylsis)
+
+**Description:** Comprehensive data analysis platform for processing and visualizing honeypot logs to extract threat intelligence.
+
+**Key Features:**
+- Log aggregation and parsing
+- Attack pattern visualization
+- Geolocation tracking of attackers
+- Threat actor profiling
+- Automated reporting
+
+**Skills Demonstrated:** Data analysis, threat intelligence, SIEM operations, JavaScript, security analytics
+
+**Value:** Transforms raw honeypot data into actionable security insights
+
+</details>
+
+### 🔧 Security Assessment & Scanning Tools
+
+<details>
+<summary><b>🌐 Web Application Security Scanner</b> ⭐ 9 stars</summary>
+
+**Repository:** [Simple-Web-Application-Security-Scanner](https://github.com/Rishi-kaul/Simple-Web-Application-Security-Scanner)
+
+**Description:** Automated vulnerability scanner for identifying common web application security weaknesses.
+
+**Scanning Capabilities:**
+- SQL injection detection
+- XSS vulnerability identification
+- Security header analysis
+- SSL/TLS configuration testing
+- Common misconfigurations
+
+**Skills Demonstrated:** Vulnerability assessment, OWASP Top 10, Python development, web security, penetration testing
+
+**Professional Use:** Helps organizations identify security gaps before attackers do
+
+</details>
+
+<details>
+<summary><b>🔍 ARP/ICMP Network Scanner</b> 🆕 Recent</summary>
+
+**Repository:** [ARP-ICMP-network-scanning](https://github.com/Rishi-kaul/ARP-ICMP--network-scanning--)
+
+**Description:** Python-based network reconnaissance tool using ARP and ICMP protocols for host discovery and network mapping.
+
+**Technical Features:**
+- Active host discovery
+- Network topology mapping
+- MAC address identification
+- Response time analysis
+
+**Skills Demonstrated:** Network protocols, packet crafting, network security, Python scripting, reconnaissance
+
+**Security Application:** Essential for network inventory and identifying unauthorized devices
+
+</details>
+
+### 🔓 Exploitation & Password Security
 
 <details>
 <summary><b>🔑 SHA1 Password Exploitation Tool</b> ⭐ 14 stars</summary>
@@ -244,12 +331,12 @@ Infrastructure as Code security
 
 **Skills Demonstrated:** Cryptanalysis, password security, Python development, hash collision understanding
 
-**Learning Value:** Demonstrates why weak hashing algorithms pose security risks
+**Educational Value:** Demonstrates why legacy hashing algorithms pose security risks
 
 </details>
 
 <details>
-<summary><b>⌨️ Basic Keylogger (Educational)</b> ⭐ 15 stars</summary>
+<summary><b>⌨️ Basic Keylogger (Educational)</b> ⭐ 15 stars | MIT License</summary>
 
 **Repository:** [Basic-Keylogger](https://github.com/Rishi-kaul/Basic-Keylogger)
 
@@ -261,46 +348,82 @@ Infrastructure as Code security
 - System internals and process monitoring
 - Input capture mechanisms
 - Ethical security research practices
-- Understanding attacker TTPs
+- Understanding attacker TTPs (Tactics, Techniques, and Procedures)
 
 **Note:** Built strictly for educational purposes in controlled lab environments
 
 </details>
 
-### 📊 Additional Projects
+### 🔬 CVE Research & Vulnerability Analysis
 
 <details>
-<summary><b>🎭 Start-IT Malware Generator</b></summary>
+<summary><b>🆕 CVE-2025-68613 - n8n Vulnerability</b> 🔥 Recent (Jan 2026)</summary>
 
-**Description:** Batch script-based educational tool for understanding malware generation techniques.
+**Repository:** [n8n-CVE-2025-68613](https://github.com/Rishi-kaul/n8n-CVE-2025-68613)
 
-**Purpose:** Learning malware behavior patterns and detection signatures
+**Description:** Security research and proof-of-concept for CVE-2025-68613 affecting n8n workflow automation.
 
-**Skills:** Batch scripting, malware analysis, detection engineering
+**Skills Demonstrated:** CVE research, vulnerability analysis, JavaScript, staying current with security threats
+
+**Relevance:** Shows active engagement with current cybersecurity landscape
 
 </details>
 
 <details>
-<summary><b>📓 Emo-Dek Notebook</b></summary>
+<summary><b>🆕 CVE-2025-14847 - MongoBleed</b> Recent (Dec 2025)</summary>
 
-**Description:** Data science project exploring sentiment analysis and emotional detection using machine learning.
+**Repository:** [CVE-2025-14847-MongoBleed](https://github.com/Rishi-kaul/CVE-2025-14847-MongoBleed)
 
-**Skills Demonstrated:** Python, Jupyter notebooks, data analysis, ML fundamentals
+**Description:** Research and analysis of the MongoBleed vulnerability affecting MongoDB deployments.
+
+**Skills Demonstrated:** Database security, vulnerability research, threat analysis
+
+</details>
+
+<details>
+<summary><b>CVE-2022-23779 - Zoho ManageEngine</b></summary>
+
+**Repository:** [CVE-2022-23779](https://github.com/Rishi-kaul/CVE-2022-23779)
+
+**Description:** Testing framework for CVE-2022-23779 vulnerability in Zoho ManageEngine Desktop Central using curl-based exploitation.
+
+**Skills Demonstrated:** Vulnerability testing, exploit development, security research
+
+</details>
+
+### 🔄 DevSecOps & Security Integration
+
+<details>
+<summary><b>🛡️ API Security Testing Framework</b> ⭐ 9 stars</summary>
+
+**Repository:** [API-Postman](https://github.com/Rishi-kaul/API-Postman)
+
+**Description:** Comprehensive API security testing framework using Postman for identifying authentication and authorization vulnerabilities.
+
+**Skills Demonstrated:** API security, DevSecOps, security testing automation, Python
+
+**Business Value:** Ensures API endpoints are secure before production deployment
 
 </details>
 
 ---
 
-### 📂 Repository Highlights
+### 📂 Repository Portfolio Summary
 
 <div align="center">
 
-| Repository | Stars | Language | Focus Area |
-|------------|-------|----------|------------|
-| [Malware Analysis Lab](https://github.com/Rishi-kaul/Malware-Analysis-Lab--Self-Hosted-) | ⭐ 16 | Documentation | Malware Analysis |
-| [SHA1 Exploitation](https://github.com/Rishi-kaul/SHA1-Password-Exploitation) | ⭐ 14 | Python | Cryptanalysis |
-| [Basic Keylogger](https://github.com/Rishi-kaul/Basic-Keylogger) | ⭐ 15 | Python | Process Monitoring |
-| [File Integrity Monitor](https://github.com/Rishi-kaul/) | Active | Python | Detection Engineering |
+| Project | Stars | Language | Category | Impact |
+|---------|-------|----------|----------|---------|
+| [Malware Analysis Lab](https://github.com/Rishi-kaul/Malware-Analysis-Lab--Self-Hosted-) | ⭐ 17 | Docs | Threat Research | High |
+| [ShieldNet (FIM)](https://github.com/Rishi-kaul/ShieldNet) | ⭐ 15 | Python | Detection | High |
+| [Basic Keylogger](https://github.com/Rishi-kaul/Basic-Keylogger) | ⭐ 15 | Python | Educational | Medium |
+| [SHA1 Exploitation](https://github.com/Rishi-kaul/SHA1-Password-Exploitation) | ⭐ 14 | Python | Cryptanalysis | Medium |
+| [Phantom-Trap Honeypot](https://github.com/Rishi-kaul/Phantom-Trap-Deceptive-Honeypot-for-Cyber-Intrusion-Detection) | ⭐ 9 | Python | Blue Team | High |
+| [Honeypot Analytics](https://github.com/Rishi-kaul/honeypot-data-anaylsis) | ⭐ 9 | JavaScript | Threat Intel | High |
+| [Web Security Scanner](https://github.com/Rishi-kaul/Simple-Web-Application-Security-Scanner) | ⭐ 9 | Python | Vuln Assessment | High |
+| [API Security Testing](https://github.com/Rishi-kaul/API-Postman) | ⭐ 9 | Python | DevSecOps | Medium |
+
+**Total Security Projects:** 15+ | **Combined Stars:** 100+ | **Active CVE Research:** 3 ongoing
 
 </div>
 
